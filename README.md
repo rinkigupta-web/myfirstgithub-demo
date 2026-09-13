@@ -5,8 +5,5 @@
  <p>3rd days</p>
  <p> what is the problem
 </p>
-<<<<<<< HEAD
-=======
 visible ?
 
->>>>>>> d5604ee92324a625ee40de77b92b8310c3f9b310
